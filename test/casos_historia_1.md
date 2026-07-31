@@ -7,7 +7,7 @@
 **Precondiciones:** El usuario no debe estar registrado previamente.  
 **Datos de prueba:**  
 - Correo: usuario_valido@correo.com  
-- Contraseña: 123456#  
+- Contraseña: Ab123#  
 
 **Pasos:**  
 1. Ingresar al formulario de registro.  
@@ -28,7 +28,7 @@
 **Precondiciones:** El correo no debe estar registrado previamente.  
 **Datos de prueba:**  
 - Correo: usuario_valido@correo.com  
-- Contraseña: Abc12345  
+- Contraseña: 12345  
 
 **Pasos:**  
 1. Ingresar al formulario de registro.  
