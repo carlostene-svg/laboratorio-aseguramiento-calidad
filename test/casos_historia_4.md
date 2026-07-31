@@ -7,7 +7,7 @@
 **Precondiciones:** El usuario debe estar autenticado.  
 **Datos de prueba:**  
 - Producto: Café Expreso  
-- Cantidad: 2  
+- Cantidad: 2   
 
 **Pasos:**  
 1. Seleccionar producto del menú.  
